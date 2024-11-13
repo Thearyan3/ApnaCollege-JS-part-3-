@@ -22,3 +22,16 @@ let str = "Mango";
 str.repeat(3); //"MangoMangoMango"
 
 * Method chaining - Using one method after another. Order of execution will be left to right. 
+
+Array Methods - 
+(i). Push() - add to end.
+(ii). Pop() - delete from end & returns it.
+(iii). shift() - add to start.
+(iv). unshift() - delete from start & returns it.
+(v). indexOf() - returns index of something.
+(vi). includes() - Searches for a value.
+(vii). concat() - merge 2 arrays.
+(viii). reverse() - reverse an array.
+(ix). slice() - copies portion of an array.
+(x). spilice() - changes the original array. working is similar to slice() method.
+(xi). sort() - arranging elements in ascending or descending manner.
