@@ -35,3 +35,10 @@
 //Question No. 5 - Return the index of the "javascript" from the given array, if it was reversed.
 // let arr = ['c', 'c++', 'html', 'javascript', 'python', 'java', 'c#', 'sql'];
 // console.log(arr.reverse().indexOf("javascript"));
+
+
+//Question No. 6 - Create a 2D array which represents the tic-tac-toe game.
+// let arr = [['X', null, 'O'], [null, 'X', null], ['O', null, 'X']];
+// console.log(arr);
+// arr[0][1] = 'O';
+// console.log(arr);

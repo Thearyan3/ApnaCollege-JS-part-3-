@@ -51,4 +51,3 @@ console.log(cars.splice());  //changes the original array.
 console.log(cars.sort());  //arranging elements in ascending or descending manner.
 
 
-
